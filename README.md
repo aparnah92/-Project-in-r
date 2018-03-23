@@ -1,5 +1,5 @@
-# -Project-in-r
-Predective modelling in R
+# Coursework Projects
+1) Predective modelling in R
 The dataset used for this code is added to the repository. 
 
 Dataset: Vertebral column of orthopedic patients
@@ -7,3 +7,6 @@ This dataset makes use of biomechanical features such as pelvic incidence, pelvi
 
 P: No. of Predictors = 6
 N: No. of Observations = 310
+
+2) Diabetic Retinopathy Detection Using Convolutional Neural Networks
+The data consists of 800 retinal images. the images are obtained from the Messidor database. Image Analysis & Stereology, v. 33, n. 3,                   p. 231-234, aug. 2014. ISSN 1854-5165. 
