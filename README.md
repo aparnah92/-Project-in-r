@@ -1,6 +1,6 @@
 # Coursework Projects
 
-1) Predective modelling in R
+1) Predictive modelling in R
    The dataset used for this code is added to the repository.
    
    Dataset: Vertebral column of orthopedic patients
